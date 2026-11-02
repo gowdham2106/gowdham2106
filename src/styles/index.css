@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --neon-cyan: #00f3ff;
+    --neon-blue: #0066ff;
+    --neon-purple: #8b00ff;
+    --neon-magenta: #ff007f;
+  }
+
+  body {
+    background-color: #02040a;
+    color: #e2edff;
+    font-family: 'Share Tech Mono', monospace;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom Cyberpunk Utilities */
+.text-glow-cyan {
+  text-shadow: 0 0 8px rgba(0, 243, 255, 0.7), 0 0 16px rgba(0, 243, 255, 0.4);
+}
+
+.text-glow-pink {
+  text-shadow: 0 0 8px rgba(255, 0, 127, 0.7), 0 0 16px rgba(255, 0, 127, 0.4);
+}
+
+.text-glow-purple {
+  text-shadow: 0 0 8px rgba(139, 0, 255, 0.7), 0 0 16px rgba(139, 0, 255, 0.4);
+}
+
+.box-glow-cyan {
+  box-shadow: 0 0 20px rgba(0, 243, 255, 0.25), inset 0 0 10px rgba(0, 243, 255, 0.1);
+}
+
+.box-glow-pink {
+  box-shadow: 0 0 20px rgba(255, 0, 127, 0.25), inset 0 0 10px rgba(255, 0, 127, 0.1);
+}
+
+.cyber-glass {
+  background: rgba(6, 12, 28, 0.78);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 243, 255, 0.25);
+}
+
+.cyber-glass-pink {
+  background: rgba(20, 6, 24, 0.82);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 0, 127, 0.3);
+}
+
+/* Cyber cut corner button / panel */
+.cyber-cut {
+  clip-path: polygon(
+    0 12px,
+    12px 0,
+    100% 0,
+    100% calc(100% - 12px),
+    calc(100% - 12px) 100%,
+    0 100%
+  );
+}
+
+.cyber-cut-sm {
+  clip-path: polygon(
+    0 6px,
+    6px 0,
+    100% 0,
+    100% calc(100% - 6px),
+    calc(100% - 6px) 100%,
+    0 100%
+  );
+}
+
+.cyber-cut-both {
+  clip-path: polygon(
+    14px 0%,
+    calc(100% - 14px) 0%,
+    100% 14px,
+    100% calc(100% - 14px),
+    calc(100% - 14px) 100%,
+    14px 100%,
+    0% calc(100% - 14px),
+    0% 14px
+  );
+}
+
+/* CRT Scanlines Effect */
+.scanlines {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%, 
+    rgba(0, 0, 0, 0.3) 50%
+  ), linear-gradient(
+    90deg,
+    rgba(255, 0, 0, 0.03),
+    rgba(0, 255, 0, 0.01),
+    rgba(0, 0, 255, 0.03)
+  );
+  background-size: 100% 3px, 6px 100%;
+  pointer-events: none;
+}
+
+/* Grid overlay */
+.cyber-grid {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(0, 243, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 243, 255, 0.05) 1px, transparent 1px);
+}
+
+/* Custom Cyber Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050914;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00f3ff;
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ff007f;
+}
