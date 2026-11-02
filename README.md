@@ -1,41 +1,58 @@
 
-<!-- FUTURISTIC DEVELOPER PROFILE -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B1A,35:24104F,70:5B2EFF,100:00E5FF&text=GOWDHAM%20GOKUL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=58&descSize=14&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,50:064E3B,100:06B6D4&text=GOWDHAM%20GOKUL&fontColor=00FFB2&fontSize=48&fontAlignY=50&animation=twinkling" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=55&lines=%3E+Initializing+developer+profile...;%3E+Building+with+.NET+%2B+React;%3E+Turning+ideas+into+working+software;%3E+Learn.+Build.+Ship.+Repeat." />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=080B1A" />
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-8B5CF6?style=for-the-badge&labelColor=080B1A" />
-<img src="https://komarev.com/ghpvc/?username=gowdham2106&style=for-the-badge&color=5B2EFF&label=PROFILE+VISITS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=00FFB2&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%24+whoami+%E2%86%92+Full-Stack+Developer;%24+building+digital+experiences...;%24+compiling+ideas+into+reality...;%24+system.status+%3D+learning+%26+building" />
 
 </div>
 
 ---
 
-## `01 // BOOT SEQUENCE`
+## `root@gowdham:~# whoami`
 
-```text
-╔══════════════════════════════════════════════════╗
-║  USER      : Gowdham Gokul                     ║
-║  ROLE      : Graduate Trainee                  ║
-║  CORE      : C# / .NET / React / TypeScript    ║
-║  DATABASE  : PostgreSQL / SQL                  ║
-║  MISSION   : Build. Learn. Improve.             ║
-╚══════════════════════════════════════════════════╝
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ██████╗  ██████╗ ██╗    ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗ │
+│  ██╔════╝ ██╔═══██╗██║    ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║ │
+│  ██║  ███╗██║   ██║██║ █╗ ██║██║  ██║███████║███████║██╔████╔██║ │
+│  ██║   ██║██║   ██║██║███╗██║██║  ██║██╔══██║██╔══██║██║╚██╔╝██║ │
+│  ╚██████╔╝╚██████╔╝╚███╔███╔╝██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║ │
+│   ╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ │
+│                                                              │
+│             G O W D H A M   G O K U L                        │
+│                 FULL-STACK DEVELOPER                         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-I'm an aspiring full-stack developer who enjoys building practical applications, connecting frontend experiences with reliable APIs, and understanding how complete software systems work.
+```yaml
+identity:
+  name: "Gowdham Gokul"
+  role: "Graduate Trainee | Aspiring Full-Stack Developer"
+  location: "India"
+  mindset: "Learn → Build → Debug → Improve"
 
-> **Developer mindset:** Don't just write code. Understand it, improve it, and make it useful.
+specialization:
+  backend: "C# | ASP.NET Core | REST APIs"
+  frontend: "React | TypeScript | JavaScript"
+  database: "PostgreSQL | SQL | Supabase"
 
-## `02 // TECH ARSENAL`
+mission: "Transform ideas into practical software."
+```
+
+## `root@gowdham:~# system.info`
+
+```text
+[ OK ] Developer profile initialized
+[ OK ] Backend environment loaded
+[ OK ] Frontend environment loaded
+[ OK ] Database connection established
+[RUN ] Learning new technologies...
+[RUN ] Building real-world applications...
+```
+
+## `root@gowdham:~# ls ./tech-stack`
 
 <div align="center">
 
@@ -43,106 +60,93 @@ I'm an aspiring full-stack developer who enjoys building practical applications,
 
 </div>
 
-<details>
-<summary><b>⚙️ Expand technical toolkit</b></summary>
+```bash
+/backend       → C# | .NET | ASP.NET Core
+/frontend      → React | TypeScript | JavaScript
+/database      → PostgreSQL | SQL | Supabase
+/tools         → Git | GitHub | VS Code
+```
 
-| Domain | Technologies |
-|---|---|
-| Backend | C#, .NET, ASP.NET Core, REST APIs |
-| Frontend | React, TypeScript, JavaScript, HTML, CSS |
-| Database | PostgreSQL, SQL, Supabase |
-| Developer Tools | Git, GitHub, VS Code |
-| Current Focus | API integration, testing, deployment |
+## `root@gowdham:~# ls ./projects`
 
-</details>
+### 01. ClaimShield
 
-## `03 // PROJECT PORTALS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ ClaimShield</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/INSURANCE-TECH-00E5FF?style=flat-square&labelColor=080B1A" />
-</div>
-
-Motor insurance claims application exploring policy information, claim workflows, document uploads, and AI-assisted claim context.
-
-**Stack:** .NET · React · PostgreSQL
-
-<div align="center">
+```text
+PROJECT   : ClaimShield
+TYPE      : Motor Insurance Claims Platform
+BACKEND   : ASP.NET Core
+FRONTEND  : React + TypeScript
+DATABASE  : PostgreSQL
+FEATURES  : Claim workflows, document handling,
+            policy information, AI-assisted context
+STATUS    : Development
+```
 
 <a href="https://github.com/gowdham2106/claimshield">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B1A" />
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-00FFB2?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" />
 </a>
 
-</div>
+### 02. Mission Mavericks Hub
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🚀 Mission Mavericks Hub</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/TEAM-COLLABORATION-8B5CF6?style=flat-square&labelColor=080B1A" />
-</div>
-
-A team portal for project milestones, team information, shared documentation, and collaboration.
-
-**Stack:** React · TypeScript · Supabase
-
-<div align="center">
+```text
+PROJECT   : Mission Mavericks Hub
+TYPE      : Team Collaboration Portal
+FRONTEND  : React + TypeScript
+DATABASE  : Supabase
+FEATURES  : Team dashboard, project journey,
+            documents and team collaboration
+STATUS    : Development
+```
 
 <a href="https://github.com/gowdham2106/maverick-hub">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=080B1A" />
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-00D9FF?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" />
 </a>
 
-</div>
-
-</td>
-</tr>
-</table>
-
-## `04 // GITHUB TELEMETRY`
+## `root@gowdham:~# git status`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gowdham2106&show_icons=true&hide_border=true&bg_color=080B1A&title_color=00E5FF&text_color=E6EAF2&icon_color=8B5CF6&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gowdham2106&show_icons=true&hide_border=true&bg_color=020617&title_color=00FFB2&text_color=C9D1D9&icon_color=00D9FF" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdham2106&layout=compact&hide_border=true&bg_color=080B1A&title_color=00E5FF&text_color=E6EAF2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdham2106&layout=compact&hide_border=true&bg_color=020617&title_color=00FFB2&text_color=C9D1D9" />
 
-<br/><br/>
+<br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=gowdham2106&hide_border=true&background=080B1A&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=E6EAF2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B93A7" />
+<img width="90%" src="https://streak-stats.demolab.com?user=gowdham2106&hide_border=true&background=020617&ring=00FFB2&fire=00D9FF&currStreakLabel=00FFB2&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
-## `05 // ACTIVE MISSIONS`
+## `root@gowdham:~# cat ./current-missions.txt`
 
-- `[01]` Strengthening ASP.NET Core and Web API development
-- `[02]` Building responsive React + TypeScript interfaces
-- `[03]` Improving SQL and database modelling
-- `[04]` Learning testing, debugging, and deployment
-- `[05]` Building projects that solve real-world problems
+```bash
+[01] Mastering ASP.NET Core Web API
+[02] Building responsive React applications
+[03] Improving SQL and database architecture
+[04] Exploring software testing and deployment
+[05] Creating practical full-stack projects
+```
 
-## `06 // ESTABLISH CONNECTION`
+## `root@gowdham:~# ./connect.sh`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/gowdhamgokuldas/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FFB2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=020617" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:gowdhamgokul@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=020617" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,50:5B2EFF,100:080B1A&animation=twinkling" />
+```text
+$ echo "Thanks for visiting my terminal."
+$ exit 0
 
-<sub>Built with curiosity. Powered by commits. Always evolving.</sub>
+Connection closed.
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:064E3B,100:020617" />
 
 </div>
