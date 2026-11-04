@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- ◈ MAIN CYBERPUNK HERO BANNER ◈ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=225&color=0:020617,20:0a122c,55:381464,100:00e5ff&text=NEO-KYOTO%20WORKSTATION&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=twinkling&desc=GOWDHAM%20GOKUL%20%7C%20GRADUATE%20TRAINEE%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=65&descAlign=50" alt="Neo-Kyoto Workstation Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=225&color=0:020617,20:0a122c,55:381464,100:00e5ff&text=GOWDHAM's%20WORKSTATION&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=twinkling&desc=GOWDHAM%20GOKUL%20%7C%20GRADUATE%20TRAINEE%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=65&descAlign=50" alt="GOWDHAM's Workstation Header" />
 
 <!-- ◈ TYPING SUBTITLE SEQUENCE ◈ -->
 <a href="https://github.com/gowdham2106">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E+NEO-KYOTO+WORKSTATION+INITIALIZED;%3E+OPERATOR%3A+GOWDHAM+GOKUL;%3E+GRADUATE+TRAINEE+%7C+FULL-STACK+DEVELOPER;%3E+ARCHITECTING+RESILIENT+SOFTWARE+SYSTEMS" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E+GOWDHAM'S+WORKSTATION+INITIALIZED;%3E+OPERATOR%3A+GOWDHAM+GOKUL;%3E+GRADUATE+TRAINEE+%7C+FULL-STACK+DEVELOPER" alt="Typing Subtitle" />
 </a>
 
 <br/>
@@ -61,7 +61,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-> **Terminal Log:** Welcome to the **Neo-Kyoto Workstation**. This profile is the central command center of my developer universe. Here, full-stack architecture meets modern reactive web engineering, powered by enterprise C#/.NET Core on the server side and immersive, type-safe React and TypeScript on the client side.
+> **Terminal Log:** Welcome to the **Gowdham's Workstation**. This profile is the central command center of my developer universe. Here, full-stack architecture meets modern reactive web engineering, powered by enterprise C#/.NET Core on the server side and immersive, type-safe React and TypeScript on the client side.
 
 <div align="center">
 
@@ -275,16 +275,11 @@ SECURITY : Granular Row-Level Security Policies
 
 ## ◈ 05 — INTEL
 
-<div align="center">
 
-<!-- GitHub Stats Card -->
-<a href="https://github.com/gowdham2106">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gowdham2106&show_icons=true&hide_border=true&bg_color=080B1A&title_color=00E5FF&text_color=E6EAF2&icon_color=FF39D4&border_radius=6" alt="Gowdham Gokul GitHub Stats" />
-</a>
+
+
 <!-- Top Languages Card -->
-<a href="https://github.com/gowdham2106">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdham2106&layout=compact&hide_border=true&bg_color=080B1A&title_color=00E5FF&text_color=E6EAF2&border_radius=6" alt="Most Used Languages" />
-</a>
+
 
 <br/><br/>
 
@@ -295,10 +290,8 @@ SECURITY : Granular Row-Level Security Policies
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<a href="https://github.com/gowdham2106">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gowdham2106&bg_color=080B1A&color=00E5FF&line=FF39D4&point=00E5FF&area=true&hide_border=true&border_radius=6" alt="GitHub Activity Graph" />
-</a>
+
+
 
 </div>
 
