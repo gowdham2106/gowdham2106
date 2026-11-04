@@ -3,7 +3,7 @@ import { TechSkill, ProjectItem, MissionItem } from '../types';
 export const DEVELOPER_PROFILE = {
   name: 'Gowdham Gokul',
   codeName: 'GOWDHAM_GOKUL',
-  designation: 'GRADUATE TRAINEE',
+  designation: 'SOFTWARE ENGINEER TRAINEE',
   role: 'Aspiring Full-Stack Developer',
   location: 'Neo-Kyoto // Digital Space',
   status: 'ONLINE // ACTIVE TRANSMISSION',
@@ -337,9 +337,10 @@ export const CURRENT_MISSIONS: MissionItem[] = [
 
 export const CONTACT_INFO = {
   github: 'https://github.com/gowdham2106',
-  linkedin: 'https://www.linkedin.com/in/gowdham-gokul/', // standard direct link or placeholder
-  email: 'gowdhamgokul2106@gmail.com',
+  linkedin: 'https://www.linkedin.com/in/gowdhamgokuldas/', // standard direct link or placeholder
+  email: 'gowdhamgokul@gmail.com',
   location: 'Tamil Nadu, India // Remote Available',
   availability: 'Open for Full-Stack Opportunities, Graduate Roles & High-Impact Projects',
   terminalGreeting: 'ESTABLISH NEURAL UPLINK WITH GOWDHAM GOKUL'
 };
+

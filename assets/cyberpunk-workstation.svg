@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="100%" height="100%">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#02040a" />
+      <stop offset="60%" stop-color="#080e22" />
+      <stop offset="100%" stop-color="#140826" />
+    </linearGradient>
+
+    <linearGradient id="cyanNeon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f3ff" />
+      <stop offset="100%" stop-color="#0066ff" />
+    </linearGradient>
+
+    <linearGradient id="pinkNeon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff007f" />
+      <stop offset="100%" stop-color="#9d00ff" />
+    </linearGradient>
+
+    <linearGradient id="deskGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#050a17" />
+      <stop offset="50%" stop-color="#091326" />
+      <stop offset="100%" stop-color="#02050d" />
+    </linearGradient>
+
+    <linearGradient id="screenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="100%" stop-color="#08142b" />
+    </linearGradient>
+
+    <linearGradient id="holoLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f3ff" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0066ff" stop-opacity="0.05" />
+    </linearGradient>
+
+    <linearGradient id="holoRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#7000ff" stop-opacity="0.05" />
+    </linearGradient>
+
+    <filter id="neonGlowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="neonGlowPink" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Rain streak pattern -->
+    <pattern id="rainPattern" width="120" height="80" patternUnits="userSpaceOnUse" patternTransform="rotate(15)">
+      <line x1="10" y1="5" x2="10" y2="25" stroke="#00f3ff" stroke-width="0.8" opacity="0.3" />
+      <line x1="45" y1="20" x2="45" y2="45" stroke="#8be9fd" stroke-width="0.7" opacity="0.25" />
+      <line x1="80" y1="10" x2="80" y2="38" stroke="#00f3ff" stroke-width="0.9" opacity="0.35" />
+      <line x1="105" y1="50" x2="105" y2="70" stroke="#ff007f" stroke-width="0.6" opacity="0.2" />
+      <line x1="30" y1="55" x2="30" y2="75" stroke="#00f3ff" stroke-width="0.7" opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <!-- Background Sky -->
+  <rect width="1000" height="420" fill="url(#skyGrad)" />
+
+  <!-- Rain Layer Outside Window -->
+  <rect width="1000" height="280" fill="url(#rainPattern)" />
+
+  <!-- Distant Cyberpunk City Skyscrapers -->
+  <g id="cityscape" opacity="0.85">
+    <!-- Tower 1 -->
+    <rect x="40" y="80" width="75" height="200" fill="#040918" stroke="#0b1a38" stroke-width="1" />
+    <line x1="77" y1="80" x2="77" y2="40" stroke="#00f3ff" stroke-width="1.5" />
+    <circle cx="77" cy="38" r="2" fill="#ff0055" filter="url(#neonGlowPink)" />
+    <!-- Window Grid -->
+    <g fill="#00f3ff" opacity="0.4">
+      <rect x="48" y="95" width="6" height="4" /><rect x="60" y="95" width="6" height="4" /><rect x="72" y="95" width="6" height="4" /><rect x="84" y="95" width="6" height="4" />
+      <rect x="48" y="110" width="6" height="4" /><rect x="84" y="110" width="6" height="4" />
+      <rect x="48" y="125" width="6" height="4" /><rect x="60" y="125" width="6" height="4" /><rect x="72" y="125" width="6" height="4" />
+      <rect x="48" y="140" width="6" height="4" /><rect x="84" y="140" width="6" height="4" />
+      <rect x="60" y="155" width="6" height="4" /><rect x="72" y="155" width="6" height="4" />
+    </g>
+
+    <!-- Tower 2 (Megatower with Neon Edge) -->
+    <rect x="135" y="40" width="110" height="240" fill="#030713" stroke="#0a1835" stroke-width="1" />
+    <line x1="135" y1="40" x2="135" y2="280" stroke="#ff007f" stroke-width="2" filter="url(#neonGlowPink)" />
+    <!-- Billboard -->
+    <rect x="150" y="65" width="80" height="22" fill="#020409" stroke="#00f3ff" stroke-width="1" />
+    <text x="190" y="80" fill="#00f3ff" font-family="'Share Tech Mono', monospace" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="2">NEO-KYOTO</text>
+    <!-- Windows -->
+    <g fill="#ff007f" opacity="0.4">
+      <rect x="150" y="100" width="8" height="4" /><rect x="165" y="100" width="8" height="4" /><rect x="180" y="100" width="8" height="4" /><rect x="210" y="100" width="8" height="4" />
+      <rect x="165" y="115" width="8" height="4" /><rect x="195" y="115" width="8" height="4" /><rect x="210" y="115" width="8" height="4" />
+      <rect x="150" y="130" width="8" height="4" /><rect x="180" y="130" width="8" height="4" /><rect x="195" y="130" width="8" height="4" />
+    </g>
+
+    <!-- Center Distant Towers -->
+    <rect x="360" y="90" width="90" height="190" fill="#020610" />
+    <line x1="450" y1="90" x2="450" y2="280" stroke="#00f3ff" stroke-width="2" opacity="0.6" />
+    <rect x="470" y="60" width="80" height="220" fill="#040916" />
+    <line x1="510" y1="60" x2="510" y2="25" stroke="#ffaa00" stroke-width="1.5" />
+    <circle cx="510" cy="23" r="2" fill="#ff0055" />
+
+    <rect x="570" y="110" width="100" height="170" fill="#030612" />
+    <!-- Billboard 2 -->
+    <rect x="585" y="125" width="70" height="18" fill="#010308" stroke="#ff007f" stroke-width="1" />
+    <text x="620" y="138" fill="#ff007f" font-family="'Share Tech Mono', monospace" font-size="9" font-weight="bold" text-anchor="middle" letter-spacing="1">CYBER//2106</text>
+
+    <!-- Right Towers -->
+    <rect x="740" y="50" width="120" height="230" fill="#030714" stroke="#0d1b38" stroke-width="1" />
+    <line x1="860" y1="50" x2="860" y2="280" stroke="#00f3ff" stroke-width="2.5" filter="url(#neonGlowCyan)" />
+    <!-- Windows -->
+    <g fill="#00f3ff" opacity="0.35">
+      <rect x="755" y="70" width="7" height="4" /><rect x="770" y="70" width="7" height="4" /><rect x="800" y="70" width="7" height="4" /><rect x="830" y="70" width="7" height="4" />
+      <rect x="755" y="85" width="7" height="4" /><rect x="785" y="85" width="7" height="4" /><rect x="815" y="85" width="7" height="4" /><rect x="830" y="85" width="7" height="4" />
+      <rect x="770" y="100" width="7" height="4" /><rect x="800" y="100" width="7" height="4" /><rect x="815" y="100" width="7" height="4" />
+      <rect x="755" y="115" width="7" height="4" /><rect x="785" y="115" width="7" height="4" /><rect x="830" y="115" width="7" height="4" />
+    </g>
+
+    <rect x="880" y="95" width="85" height="185" fill="#040918" />
+  </g>
+
+  <!-- Sky Searchlights -->
+  <polygon points="200,280 240,0 270,0" fill="#00f3ff" opacity="0.06" />
+  <polygon points="780,280 720,0 680,0" fill="#ff007f" opacity="0.05" />
+
+  <!-- Glass Window Partition Edge Frame -->
+  <line x1="0" y1="260" x2="1000" y2="260" stroke="#0b1730" stroke-width="3" />
+  <line x1="330" y1="0" x2="330" y2="260" stroke="#0b1730" stroke-width="2" opacity="0.4" />
+  <line x1="670" y1="0" x2="670" y2="260" stroke="#0b1730" stroke-width="2" opacity="0.4" />
+
+  <!-- WORKSTATION DESK SURFACE -->
+  <polygon points="50,260 950,260 1000,420 0,420" fill="url(#deskGrad)" stroke="#102040" stroke-width="1.5" />
+  
+  <!-- Glowing Neon Strip on Front of Desk -->
+  <line x1="30" y1="262" x2="970" y2="262" stroke="url(#cyanNeon)" stroke-width="3.5" filter="url(#neonGlowCyan)" />
+  <line x1="0" y1="416" x2="1000" y2="416" stroke="url(#pinkNeon)" stroke-width="3" filter="url(#neonGlowPink)" />
+
+  <!-- Grid lines on desk surface -->
+  <line x1="250" y1="262" x2="150" y2="420" stroke="#00f3ff" stroke-width="0.6" opacity="0.2" />
+  <line x1="400" y1="262" x2="350" y2="420" stroke="#00f3ff" stroke-width="0.6" opacity="0.2" />
+  <line x1="600" y1="262" x2="650" y2="420" stroke="#00f3ff" stroke-width="0.6" opacity="0.2" />
+  <line x1="750" y1="262" x2="850" y2="420" stroke="#00f3ff" stroke-width="0.6" opacity="0.2" />
+
+  <!-- Holographic Projector Pedestal Base in Center -->
+  <ellipse cx="500" cy="355" rx="130" ry="14" fill="#040814" stroke="#00f3ff" stroke-width="1.5" opacity="0.8" />
+  <ellipse cx="500" cy="355" rx="90" ry="9" fill="none" stroke="#ff007f" stroke-width="1.2" opacity="0.7" />
+  <ellipse cx="500" cy="355" rx="50" ry="5" fill="#00f3ff" opacity="0.3" filter="url(#neonGlowCyan)" />
+
+  <!-- ◈ LEFT HOLOGRAPHIC DISPLAY: CODE & IDENTITY ◈ -->
+  <g id="leftHolo" transform="translate(60, 110) skewY(3)">
+    <!-- Backing Glass Panel -->
+    <rect x="0" y="0" width="260" height="160" rx="6" fill="url(#holoLeft)" stroke="#00f3ff" stroke-width="1.5" filter="url(#neonGlowCyan)" opacity="0.9" />
+    <!-- Header -->
+    <rect x="0" y="0" width="260" height="24" rx="6" fill="#020817" opacity="0.85" />
+    <circle cx="12" cy="12" r="3" fill="#ff0055" />
+    <circle cx="22" cy="12" r="3" fill="#ffaa00" />
+    <circle cx="32" cy="12" r="3" fill="#00ff66" />
+    <text x="45" y="16" fill="#00f3ff" font-family="'Share Tech Mono', monospace" font-size="10" font-weight="bold">IDENTITY // ARCHITECTURE</text>
+    <text x="248" y="16" fill="#94a3b8" font-family="monospace" font-size="8" text-anchor="end">SYS:2106</text>
+    
+    <!-- Code Lines inside Holo -->
+    <text x="14" y="44" fill="#ff007f" font-family="'Share Tech Mono', monospace" font-size="10" font-weight="bold">const</text>
+    <text x="48" y="44" fill="#00f3ff" font-family="'Share Tech Mono', monospace" font-size="10">developer = {</text>
+    <text x="24" y="60" fill="#94a3b8" font-family="'Share Tech Mono', monospace" font-size="9.5">name: <tspan fill="#a5f3fc">"Gowdham Gokul"</tspan>,</text>
+    <text x="24" y="76" fill="#94a3b8" font-family="'Share Tech Mono', monospace" font-size="9.5">role: <tspan fill="#f472b6">"Graduate Trainee"</tspan>,</text>
+    <text x="24" y="92" fill="#94a3b8" font-family="'Share Tech Mono', monospace" font-size="9.5">core: <tspan fill="#38bdf8">["C#", ".NET", "React"]</tspan>,</text>
+    <text x="24" y="108" fill="#94a3b8" font-family="'Share Tech Mono', monospace" font-size="9.5">data: <tspan fill="#34d399">"PostgreSQL / SQL"</tspan>,</text>
+    <text x="24" y="124" fill="#94a3b8" font-family="'Share Tech Mono', monospace" font-size="9.5">status: <tspan fill="#00ff66">"SYSTEM_READY"</tspan></text>
+    <text x="14" y="140" fill="#00f3ff" font-family="'Share Tech Mono', monospace" font-size="10">};</text>
+
+    <!-- Scanning line -->
+    <line x1="0" y1="70" x2="260" y2="70" stroke="#00f3ff" stroke-width="0.8" opacity="0.5" />
+  </g>
+
+  <!-- ◈ RIGHT HOLOGRAPHIC DISPLAY: PROJECTS & TELEMETRY ◈ -->
+  <g id="rightHolo" transform="translate(680, 110) skewY(-3)">
+    <!-- Backing Glass Panel -->
+    <rect x="0" y="0" width="260" height="160" rx="6" fill="url(#holoRight)" stroke="#ff007f" stroke-width="1.5" filter="url(#neonGlowPink)" opacity="0.9" />
+    <!-- Header -->
+    <rect x="0" y="0" width="260" height="24" rx="6" fill="#140318" opacity="0.85" />
+    <text x="12" y="16" fill="#ff007f" font-family="'Share Tech Mono', monospace" font-size="10" font-weight="bold">MODULE // PROJECT UNIVERSE</text>
+    <text x="248" y="16" fill="#00f3ff" font-family="monospace" font-size="8" text-anchor="end">ACTIVE: 02</text>
+    
+    <!-- Project 1 Box -->
+    <rect x="12" y="34" width="236" height="52" rx="4" fill="#090412" stroke="#00f3ff" stroke-width="0.8" opacity="0.9" />
+    <text x="22" y="49" fill="#00f3ff" font-family="'Share Tech Mono', monospace" font-size="10" font-weight="bold">◈ CLAIMSHIELD</text>
+    <text x="236" y="49" fill="#22c55e" font-family="monospace" font-size="8" text-anchor="end">[ASP.NET CORE]</text>
+    <text x="22" y="64" fill="#cbd5e1" font-family="'Share Tech Mono', monospace" font-size="8.5">Motor Insurance Claims Platform</text>
+    <text x="22" y="77" fill="#94a3b8" font-family="'Share Tech Mono', monospace" font-size="8">React • TypeScript • PostgreSQL • AI Context</text>
+
+    <!-- Project 2 Box -->
+    <rect x="12" y="94" width="236" height="52" rx="4" fill="#090412" stroke="#ff007f" stroke-width="0.8" opacity="0.9" />
+    <text x="22" y="109" fill="#ff007f" font-family="'Share Tech Mono', monospace" font-size="10" font-weight="bold">◈ MISSION MAVERICKS HUB</text>
+    <text x="236" y="109" fill="#a855f7" font-family="monospace" font-size="8" text-anchor="end">[SUPABASE]</text>
+    <text x="22" y="124" fill="#cbd5e1" font-family="'Share Tech Mono', monospace" font-size="8.5">Team Collaboration &amp; Sprint Portal</text>
+    <text x="22" y="137" fill="#94a3b8" font-family="'Share Tech Mono', monospace" font-size="8">React • TypeScript • Realtime Subscriptions</text>
+  </g>
+
+  <!-- ◈ CENTER FUTURISTIC LAPTOP ◈ -->
+  <g id="laptop" transform="translate(380, 210)">
+    <!-- Laptop Screen Lid (Angled) -->
+    <polygon points="15,0 225,0 215,95 25,95" fill="#040916" stroke="#00f3ff" stroke-width="1.8" filter="url(#neonGlowCyan)" />
+    <!-- Active Display Area -->
+    <polygon points="22,6 218,6 209,90 31,90" fill="url(#screenGrad)" />
+    
+    <!-- Code on laptop screen -->
+    <text x="36" y="24" fill="#38bdf8" font-family="monospace" font-size="8" font-weight="bold">// GOWDHAM_GOKUL.NET</text>
+    <text x="36" y="38" fill="#a855f7" font-family="monospace" font-size="7.5">var builder = WebApp.Create();</text>
+    <text x="36" y="50" fill="#00f3ff" font-family="monospace" font-size="7.5">builder.AddFullStackServices();</text>
+    <text x="36" y="62" fill="#22c55e" font-family="monospace" font-size="7.5">app.MapGet("/", () =&gt; "ONLINE");</text>
+    <text x="36" y="76" fill="#f472b6" font-family="monospace" font-size="7.5">&gt; System initialized_</text>
+
+    <!-- Laptop Base Keyboard Deck -->
+    <polygon points="25,95 215,95 240,150 0,150" fill="#060c1c" stroke="#12254d" stroke-width="1.5" />
+    <!-- Glowing Keyboard Bed -->
+    <polygon points="35,102 205,102 220,132 20,132" fill="#030610" stroke="#00f3ff" stroke-width="0.8" opacity="0.9" />
+    
+    <!-- Keyboard Key Grid Rows (Glowing Cyan & Magenta) -->
+    <g fill="#00f3ff" opacity="0.85">
+      <rect x="42" y="105" width="10" height="4" /><rect x="56" y="105" width="10" height="4" /><rect x="70" y="105" width="10" height="4" /><rect x="84" y="105" width="10" height="4" /><rect x="98" y="105" width="10" height="4" /><rect x="112" y="105" width="10" height="4" /><rect x="126" y="105" width="10" height="4" /><rect x="140" y="105" width="10" height="4" /><rect x="154" y="105" width="10" height="4" /><rect x="168" y="105" width="10" height="4" /><rect x="182" y="105" width="10" height="4" />
+      <rect x="40" y="112" width="11" height="4" /><rect x="55" y="112" width="11" height="4" /><rect x="70" y="112" width="11" height="4" /><rect x="85" y="112" width="11" height="4" /><rect x="100" y="112" width="11" height="4" /><rect x="115" y="112" width="11" height="4" /><rect x="130" y="112" width="11" height="4" /><rect x="145" y="112" width="11" height="4" /><rect x="160" y="112" width="11" height="4" /><rect x="175" y="112" width="11" height="4" />
+      <rect x="38" y="119" width="12" height="4" /><rect x="54" y="119" width="12" height="4" /><rect x="70" y="119" width="12" height="4" /><rect x="86" y="119" width="12" height="4" /><rect x="102" y="119" width="12" height="4" /><rect x="118" y="119" width="12" height="4" /><rect x="134" y="119" width="12" height="4" /><rect x="150" y="119" width="12" height="4" /><rect x="166" y="119" width="12" height="4" /><rect x="182" y="119" width="12" height="4" />
+      <!-- Spacebar -->
+      <rect x="82" y="125" width="65" height="4" fill="#ff007f" filter="url(#neonGlowPink)" />
+    </g>
+
+    <!-- Trackpad with Cyan Glow Border -->
+    <polygon points="95,136 145,136 150,147 90,147" fill="#020409" stroke="#00f3ff" stroke-width="0.8" opacity="0.8" />
+  </g>
+
+  <!-- Ambient Light Reflection on Desk from Laptop Screen -->
+  <ellipse cx="500" cy="310" rx="90" ry="25" fill="#00f3ff" opacity="0.12" filter="url(#neonGlowCyan)" />
+
+  <!-- Cyber HUD Decorative Overlays -->
+  <g font-family="'Share Tech Mono', monospace" font-size="10" fill="#00f3ff" opacity="0.6">
+    <text x="30" y="30">[SYS::ONLINE]</text>
+    <text x="30" y="44">[NET::SECURE]</text>
+    <text x="970" y="30" text-anchor="end">[LOC::35.6762°N, 139.6503°E]</text>
+    <text x="970" y="44" text-anchor="end">[ENV::CYBER_WORKSTATION_2.0]</text>
+  </g>
+
+  <!-- Tech Nodes Orbiting Center (Floating 3D Icons Representation) -->
+  <g transform="translate(500, 160)">
+    <!-- Central Node -->
+    <circle cx="0" cy="0" r="14" fill="#03081a" stroke="#00f3ff" stroke-width="1.5" filter="url(#neonGlowCyan)" />
+    <text x="0" y="4" fill="#00f3ff" font-family="'Share Tech Mono', monospace" font-size="9" font-weight="bold" text-anchor="middle">.NET</text>
+
+    <!-- Left Node -->
+    <circle cx="-55" cy="-15" r="12" fill="#03081a" stroke="#38bdf8" stroke-width="1.2" />
+    <text x="-55" y="-12" fill="#38bdf8" font-family="'Share Tech Mono', monospace" font-size="7.5" font-weight="bold" text-anchor="middle">REACT</text>
+    <line x1="-43" y1="-12" x2="-14" y2="-3" stroke="#00f3ff" stroke-width="0.8" stroke-dasharray="2 2" opacity="0.7" />
+
+    <!-- Right Node -->
+    <circle cx="55" cy="-15" r="12" fill="#03081a" stroke="#a855f7" stroke-width="1.2" />
+    <text x="55" y="-12" fill="#a855f7" font-family="'Share Tech Mono', monospace" font-size="8" font-weight="bold" text-anchor="middle">C#</text>
+    <line x1="43" y1="-12" x2="14" y2="-3" stroke="#ff007f" stroke-width="0.8" stroke-dasharray="2 2" opacity="0.7" />
+
+    <!-- Top Node -->
+    <circle cx="0" cy="-38" r="11" fill="#03081a" stroke="#34d399" stroke-width="1.2" />
+    <text x="0" y="-35" fill="#34d399" font-family="'Share Tech Mono', monospace" font-size="7" font-weight="bold" text-anchor="middle">SQL</text>
+    <line x1="0" y1="-27" x2="0" y2="-14" stroke="#34d399" stroke-width="0.8" stroke-dasharray="2 2" opacity="0.7" />
+  </g>
+</svg>
+

@@ -93,3 +93,4 @@ export async function fetchGitHubTelemetry(username: string = 'gowdham2106'): Pr
     return FALLBACK_GITHUB_DATA;
   }
 }
+

@@ -64,3 +64,4 @@ export interface GitHubStatsData {
   languages: { name: string; percentage: number; color: string }[];
   recentEvents: { type: string; repo: string; date: string; message: string }[];
 }
+
