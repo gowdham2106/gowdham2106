@@ -1,6 +1,6 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
-║               NEO-KYOTO WORKSTATION // GOWDHAM GOKUL                 ║
+║               GOWDHAM's WORKSTATION // GOWDHAM GOKUL                 ║
 ║         GitHub Profile Ecosystem • Theme: Cyberpunk Workstation       ║
 ║         Repository: gowdham2106/gowdham2106                          ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -28,12 +28,6 @@
 <a href="https://github.com/gowdham2106">
   <img src="https://img.shields.io/badge/SPECIALIZATION-FULL--STACK-7B2FFF?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=080B1A" alt="Specialization Full Stack" />
 </a>
-<a href="https://github.com/gowdham2106">
-  <img src="https://img.shields.io/badge/SECTOR-NEO--KYOTO-0066FF?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=080B1A" alt="Sector Neo Kyoto" />
-</a>
-<a href="https://github.com/gowdham2106">
-  <img src="https://komarev.com/ghpvc/?username=gowdham2106&style=for-the-badge&color=00E5FF&label=NET%20TRAFFIC" alt="Visitor Traffic" />
-</a>
 
 <br/><br/>
 
@@ -54,12 +48,12 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                 NEO-KYOTO WORKSTATION // ROOT ENVIRONMENT                    ║
+║                   GOWDHAM's WORKSTATION // ROOT ENVIRONMENT                    ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  OPERATOR         : GOWDHAM GOKUL                                            ║
+║  OPERATOR         : GOWDHAM G                                          ║
 ║  DESIGNATION      : Graduate Trainee | Full-Stack Developer                  ║
-║  CLASS            : Software Engineer & Web Architect                        ║
+║  CLASS            : Software Engineer                         ║
 ║  WORKSPACE REPO   : https://github.com/gowdham2106/gowdham2106               ║
 ║  CORE STACK       : C# • ASP.NET Core • React • TypeScript • PostgreSQL • AI ║
 ║  MISSION DIRECTIVE: Transform complex ideas into resilient, scalable software║
