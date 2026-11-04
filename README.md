@@ -1,24 +1,24 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
-║               GOWDHAM GOKUL // CYBERPUNK GITHUB PROFILE              ║
-║         Theme: Neo-Kyoto / Cyber Workstation / Neural Terminal       ║
+║               NEO-KYOTO WORKSTATION // GOWDHAM GOKUL                 ║
+║         GitHub Profile Ecosystem • Theme: Cyberpunk Workstation       ║
 ║         Repository: gowdham2106/gowdham2106                          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- ◈ 01. DYNAMIC CYBERPUNK HERO BANNER ◈ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=225&color=0:020617,20:0a122c,55:381464,100:00e5ff&text=GOWDHAM%20GOKUL&fontColor=ffffff&fontSize=48&fontAlignY=45&animation=twinkling&desc=GRADUATE%20TRAINEE%20%7C%20ASPIRING%20FULL-STACK%20DEVELOPER&descSize=16&descAlignY=68&descAlign=50" alt="Gowdham Gokul Header" />
+<!-- ◈ MAIN CYBERPUNK HERO BANNER ◈ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=225&color=0:020617,20:0a122c,55:381464,100:00e5ff&text=NEO-KYOTO%20WORKSTATION&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=twinkling&desc=GOWDHAM%20GOKUL%20%7C%20GRADUATE%20TRAINEE%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=65&descAlign=50" alt="Neo-Kyoto Workstation Header" />
 
 <!-- ◈ TYPING SUBTITLE SEQUENCE ◈ -->
 <a href="https://github.com/gowdham2106">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+CONNECTING+TO+THE+DIGITAL+WORLD...;%3E+FULL-STACK+DEVELOPER;%3E+BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E+NEO-KYOTO+WORKSTATION+INITIALIZED;%3E+OPERATOR%3A+GOWDHAM+GOKUL;%3E+GRADUATE+TRAINEE+%7C+FULL-STACK+DEVELOPER;%3E+ARCHITECTING+RESILIENT+SOFTWARE+SYSTEMS" alt="Typing Subtitle" />
 </a>
 
 <br/>
 
-<!-- ◈ SYSTEM TELEMETRY BADGES ◈ -->
+<!-- ◈ TELEMETRY STATUS BADGES ◈ -->
 <a href="https://github.com/gowdham2106">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=080B1A" alt="System Status Online" />
 </a>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/ROLE-GRADUATE%20TRAINEE-FF39D4?style=for-the-badge&logo=codestream&logoColor=white&labelColor=080B1A" alt="Role Graduate Trainee" />
 </a>
 <a href="https://github.com/gowdham2106">
-  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20DEV-7B2FFF?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=080B1A" alt="Focus Full Stack" />
+  <img src="https://img.shields.io/badge/SPECIALIZATION-FULL--STACK-7B2FFF?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=080B1A" alt="Specialization Full Stack" />
 </a>
 <a href="https://github.com/gowdham2106">
   <img src="https://img.shields.io/badge/SECTOR-NEO--KYOTO-0066FF?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=080B1A" alt="Sector Neo Kyoto" />
@@ -37,100 +37,164 @@
 
 <br/><br/>
 
-<!-- 
-◈ 02. CYBERPUNK DEVELOPER WORKSTATION VISUAL ◈
-========================================================================
-ASSET CUSTOMIZATION NOTE:
-The image below renders the dedicated vector workstation graphic.
-If you wish to showcase a custom 3D screenshot or animated GIF:
-1. Place your image at: assets/cyberpunk-workstation.png (or .gif)
-2. Update the src attribute to:
-   https://raw.githubusercontent.com/gowdham2106/gowdham2106/main/assets/cyberpunk-workstation.png
-========================================================================
--->
-<p align="center">
-  <img src="./assets/cyberpunk-workstation.svg" width="100%" alt="Cyberpunk Developer Workstation - Neo-Kyoto Night Skyline with Glowing Laptop and Holographic Displays" />
-</p>
-
 </div>
 
 ---
 
-### `root@gowdham:~# whoami`
+## ◈ 01 — WORKSTATION
+
+<div align="center">
+
+<!-- Centered Prominent Neo-Kyoto Cyberpunk Workstation Visual -->
+<p align="center">
+  <img src="./assets/cyberpunk-workstation.svg" width="100%" alt="Neo-Kyoto Developer Workstation - Glowing Cyber Laptop, Dual Holographic Displays, Rainy Megacity Skyline" />
+</p>
+
+</div>
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                       CYBERNETIC IDENTITY TERMINAL                           ║
+║                 NEO-KYOTO WORKSTATION // ROOT ENVIRONMENT                    ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  USER_ID          : GOWDHAM GOKUL                                            ║
-║  DESIGNATION      : Graduate Trainee                                         ║
-║  CLASS            : Aspiring Full-Stack Developer                            ║
-║  LOCATION         : Neo-Kyoto // Tamil Nadu, India                           ║
-║  SYSTEM_UPTIME    : ACTIVE_TRANSMISSION                                      ║
-║                                                                              ║
-║  SPECIALIZATION:                                                             ║
-║    > BACKEND      : C# | .NET | ASP.NET Core | RESTful APIs                  ║
-║    > FRONTEND     : React | TypeScript | JavaScript | HTML5 / CSS3           ║
-║    > DATABASE     : PostgreSQL | Relational SQL | Supabase                   ║
-║    > TOOLS        : Git | GitHub | Visual Studio Code                        ║
-║                                                                              ║
-║  DEV_INTERESTS    : Clean Architecture, Microservices, Relational DB Design, ║
-║                     Interactive 3D Web Graphics, and Scalable Cloud APIs     ║
-║                                                                              ║
-║  LEARNING_GOALS   : Advanced ASP.NET Core Web API, Automated Testing Suites, ║
-║                     PostgreSQL Query Optimization, and Cloud Deployment      ║
-║                                                                              ║
-║  PHILOSOPHY       : "Explore the unknown. Engineer the solution.             ║
-║                      Build something meaningful."                            ║
+║  OPERATOR         : GOWDHAM GOKUL                                            ║
+║  DESIGNATION      : Graduate Trainee | Full-Stack Developer                  ║
+║  CLASS            : Software Engineer & Web Architect                        ║
+║  WORKSPACE REPO   : https://github.com/gowdham2106/gowdham2106               ║
+║  CORE STACK       : C# • ASP.NET Core • React • TypeScript • PostgreSQL • AI ║
+║  MISSION DIRECTIVE: Transform complex ideas into resilient, scalable software║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-> **Direct Transmission:** I am a graduate trainee with an unrelenting focus on crafting reliable, scalable software. Whether architecting clean backend APIs with C# and ASP.NET Core or building reactive, type-safe web interfaces in React and TypeScript, I treat code as both an engineering discipline and a craft.
-
----
-
-### `root@gowdham:~# system.status`
-
-```yaml
-# DECORATIVE SYSTEM MONITOR // PROFILE TELEMETRY
-[ STATUS REPORT : 2106.SYS ]
-  01. DEVELOPER PROFILE      : [ ONLINE  ]  Neural uplink established (99.9% uptime)
-  02. BACKEND ENGINEERING    : [ ACTIVE  ]  ASP.NET Core Web APIs & Clean Architecture
-  03. FRONTEND DEVELOPMENT   : [ ACTIVE  ]  React 18, TypeScript, Tailwind & Modern UI
-  04. DATABASE LEARNING      : [ ACTIVE  ]  PostgreSQL schema design & Supabase RLS
-  05. INNOVATION PIPELINE    : [ IN PROG ]  ClaimShield AI & Mission Mavericks Hub
-
-[ DIAGNOSTIC NOTICE ]
-  Status indicators reflect active personal learning trajectories and ongoing projects.
-```
-
----
-
-### `root@gowdham:~# sys.tech_arsenal`
+> **Terminal Log:** Welcome to the **Neo-Kyoto Workstation**. This profile is the central command center of my developer universe. Here, full-stack architecture meets modern reactive web engineering, powered by enterprise C#/.NET Core on the server side and immersive, type-safe React and TypeScript on the client side.
 
 <div align="center">
 
-<!-- Skill Icons Matrix -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,postgres,supabase,git,github,vscode&perline=6" alt="Tech Stack Icons" />
+<a href="https://github.com/gowdham2106/gowdham2106">
+  <img src="https://img.shields.io/badge/ENTER_WORKSTATION_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B1A" alt="Access Workstation Repo" />
 </a>
 
 </div>
 
 <br/>
 
-| Subsystem Domain | Primary Technologies | Operational Level | Architecture Focus |
-|:---|:---|:---:|:---|
-| **`[ BACKEND ]`** | **C#**, **.NET**, **ASP.NET Core**, **RESTful APIs** | `OPTIMIZED` | Clean Architecture, Dependency Injection, Controller APIs, EF Core |
-| **`[ FRONTEND ]`** | **React**, **TypeScript**, **JavaScript**, **HTML5 / CSS3** | `ACTIVE` | Reactive Component Design, Type Safety, Custom Hooks, Tailwind CSS |
-| **`[ DATABASE ]`** | **PostgreSQL**, **Relational SQL**, **Supabase** | `EXPANDING` | Relational Modeling, Indexing, Foreign Key Constraints, Row-Level Security |
-| **`[ DEV TOOLS ]`** | **Git**, **GitHub**, **Visual Studio Code**, **CLI** | `STANDARDIZED` | Feature Branching, Git Workflows, GitHub Actions CI/CD, Debugging |
+| Workstation Node | Implementation Focus | Runtime Telemetry |
+|:---|:---|:---:|
+| **Server Architecture** | ASP.NET Core Web APIs, Clean Architecture, Dependency Injection, EF Core | `ACTIVE` |
+| **Client Interface** | Modern React 18, Strict TypeScript, Tailwind CSS, 3D WebGL / Canvas | `OPTIMIZED` |
+| **Data Persistence** | PostgreSQL Relational Schema Modeling, Supabase RLS, SQL Indexing | `ONLINE` |
+| **Intelligent Layer** | AI-assisted claim contextualization, workflow automation pipelines | `DEPLOYED` |
 
 ---
 
-### `root@gowdham:~# cat /projects/showcase.log`
+## ◈ 02 — IDENTITY MATRIX
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         DEVELOPER IDENTITY MATRIX                            ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  "Explore the unknown. Engineer the solution. Build something meaningful."   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+I am **Gowdham Gokul**, a Graduate Trainee and Aspiring Full-Stack Developer dedicated to mastering full-lifecycle software engineering. My technical journey is anchored in four engineering pillars:
+
+### 1. C# and ASP.NET Core Development
+- Architecting high-throughput, asynchronous RESTful APIs using **C#** and **ASP.NET Core**.
+- Structuring decoupled backends adhering to **Clean Architecture**, repository patterns, and dependency injection.
+- Utilizing **Entity Framework Core (EF Core)** for robust Object-Relational Mapping, automated migrations, and optimized query execution plans.
+- Implementing secure authentication and authorization mechanisms with JWT and policy-based claims.
+
+### 2. React and TypeScript Systems
+- Crafting dynamic, component-driven Single Page Applications using **React** and modern hook paradigms.
+- Enforcing end-to-end type safety through **TypeScript** (strict interfaces, utility types, and generic components) to eliminate runtime regressions.
+- Composing responsive, sleek user interfaces with **Tailwind CSS** and building interactive WebGL canvas experiences with Three.js.
+- Designing predictable state management structures with optimized rendering lifecycles.
+
+### 3. PostgreSQL and Database Engineering
+- Designing normalized relational schemas with strict foreign-key constraints and data integrity standards in **PostgreSQL** and **SQL**.
+- Tuning query performance through indexing strategies (B-Tree, GIN) and transaction isolation management.
+- Utilizing **Supabase** for real-time WebSocket database subscriptions, automated triggers, and granular Row-Level Security (RLS) policies.
+
+### 4. AI-Assisted Application Development
+- Embedding AI context pipelines into real-world business workflows to accelerate decision-making.
+- Engineering intelligent categorization and context-scoring modules (as deployed in **ClaimShield** for motor insurance claims).
+- Leveraging modern developer AI tooling to accelerate test generation, documentation, and architectural modeling.
+
+---
+
+## ◈ 03 — ARSENAL
+
+<div align="center">
+
+<!-- Skill Icons Matrix -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,tailwind,vite,postgres,supabase,git,github,vscode&perline=7" alt="Tech Stack Icons" />
+</a>
+
+</div>
+
+<br/>
+
+### `[ LANGUAGES ]`
+<p>
+  <img src="https://img.shields.io/badge/C%23-9333EA?style=for-the-badge&logo=csharp&logoColor=white&labelColor=080B1A" alt="C#" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=080B1A" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080B1A" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=080B1A" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=080B1A" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=080B1A" alt="CSS3" />
+</p>
+
+### `[ FRONTEND DEVELOPMENT ]`
+<p>
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=080B1A" alt="React" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=080B1A" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=080B1A" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=080B1A" alt="Vite" />
+  <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=080B1A" alt="Three.js" />
+  <img src="https://img.shields.io/badge/FRAMER_MOTION-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=080B1A" alt="Framer Motion" />
+</p>
+
+### `[ BACKEND ENGINEERING ]`
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt=".NET 9" />
+  <img src="https://img.shields.io/badge/C%23_REST_API-00599C?style=for-the-badge&logo=csharp&logoColor=white&labelColor=080B1A" alt="REST API" />
+  <img src="https://img.shields.io/badge/ENTITY_FRAMEWORK_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt="EF Core" />
+  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-00E5FF?style=for-the-badge&logo=diagram-next&logoColor=black&labelColor=080B1A" alt="Clean Architecture" />
+</p>
+
+### `[ DATABASE SYSTEMS ]`
+<p>
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=080B1A" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RELATIONAL_SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=080B1A" alt="Relational SQL" />
+  <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=080B1A" alt="Supabase" />
+  <img src="https://img.shields.io/badge/ROW_LEVEL_SECURITY-FF39D4?style=for-the-badge&logo=auth0&logoColor=white&labelColor=080B1A" alt="Row Level Security" />
+</p>
+
+### `[ TOOLS & PLATFORMS ]`
+<p>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=080B1A" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=080B1A" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=080B1A" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=080B1A" alt="Node.js" />
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=080B1A" alt="Postman" />
+  <img src="https://img.shields.io/badge/BASH_CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=080B1A" alt="Bash CLI" />
+</p>
+
+### `[ AI & DEVELOPMENT TOOLS ]`
+<p>
+  <img src="https://img.shields.io/badge/AI_INTEGRATION-00E5FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080B1A" alt="AI Integration" />
+  <img src="https://img.shields.io/badge/GITHUB_COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=080B1A" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/INTELLIGENT_APIS-7B2FFF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=080B1A" alt="Intelligent APIs" />
+  <img src="https://img.shields.io/badge/AUTOMATED_TESTING-FF39D4?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=080B1A" alt="Automated Testing" />
+</p>
+
+---
+
+## ◈ 04 — PROJECT UNIVERSE
 
 <table>
 <tr>
@@ -138,36 +202,35 @@ If you wish to showcase a custom 3D screenshot or animated GIF:
 
 <div align="center">
 
-### 🛡️ 01. CLAIMSHIELD
+### 🛡️ CLAIMSHIELD
 **Motor Insurance Claims Intelligence Platform**
 
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00E5FF?style=for-the-badge&labelColor=080B1A" alt="ClaimShield Status" />
-<img src="https://img.shields.io/badge/ARCH-FULL--STACK-7B2FFF?style=for-the-badge&labelColor=080B1A" alt="ClaimShield Architecture" />
+<img src="https://img.shields.io/badge/DOMAIN-MOTOR%20INSURANCE-00E5FF?style=for-the-badge&labelColor=080B1A" alt="ClaimShield Domain" />
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-7B2FFF?style=for-the-badge&labelColor=080B1A" alt="ClaimShield Status" />
 
 </div>
 
 ```text
-[ MODULE TELEMETRY ]
-DOMAIN   : Motor Insurance & FinTech
-TYPE     : Claims Processing & Adjudication
-
-BACKEND  : ASP.NET Core (C# REST API)
-FRONTEND : React + TypeScript
+[ SYSTEM MODULE SPECIFICATIONS ]
+TYPE     : Full-Stack Claims Management System
+BACKEND  : ASP.NET Core (C# Web API)
+FRONTEND : React + TypeScript + Tailwind CSS
 DATABASE : PostgreSQL Relational DB
-
-INTEGRATED CAPABILITIES:
- > Claim Lifecycle & Incident Reporting
- > Policy Information & Coverage Check
- > Encrypted Document & Photo Upload
- > AI-Assisted Claim Context Processor
+AI CORE  : Automated Context Scoring Module
 ```
 
-An enterprise-grade insurance platform designed to streamline incident reporting, automate claim filing workflows, and speed up settlement evaluation with audit trails and AI-assisted damage contextualization.
+**Core Capabilities:**
+- **Claim Lifecycle Management**: Multi-step guided filing process capturing incident details, parties involved, and damage telemetry.
+- **Instant Policy Verification**: Validates coverage limits, deductibles, and vehicle policy active dates against the database.
+- **Secure Document Upload**: Handles vehicle inspection photos, official police incident reports, and repair estimates.
+- **AI-Assisted Claim Context**: Prepares summarized damage context and preliminary consistency scores to expedite claims adjuster review.
 
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/gowdham2106/claimshield">
-  <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B1A" alt="ClaimShield Repository Link" />
+  <img src="https://img.shields.io/badge/ACCESS_CLAIMSHIELD_REPO-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B1A" alt="Access ClaimShield on GitHub" />
 </a>
 
 </div>
@@ -177,36 +240,35 @@ An enterprise-grade insurance platform designed to streamline incident reporting
 
 <div align="center">
 
-### 🚀 02. MISSION MAVERICKS HUB
-**Team Collaboration & Agile Project Portal**
+### 🚀 MISSION MAVERICKS HUB
+**Team Collaboration & Agile Project Command Portal**
 
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-FF39D4?style=for-the-badge&labelColor=080B1A" alt="Mavericks Hub Status" />
-<img src="https://img.shields.io/badge/ARCH-REACTIVE%20BaaS-0066FF?style=for-the-badge&labelColor=080B1A" alt="Mavericks Hub Architecture" />
+<img src="https://img.shields.io/badge/DOMAIN-PROJECT%20TELEMETRY-FF39D4?style=for-the-badge&labelColor=080B1A" alt="Mavericks Hub Domain" />
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-0066FF?style=for-the-badge&labelColor=080B1A" alt="Mavericks Hub Status" />
 
 </div>
 
 ```text
-[ MODULE TELEMETRY ]
-DOMAIN   : Team Operations & Project Management
-TYPE     : Real-Time Command Dashboard
-
-FRONTEND : React + TypeScript
+[ SYSTEM MODULE SPECIFICATIONS ]
+TYPE     : Real-Time Team Command Portal
+FRONTEND : React + TypeScript + Tailwind CSS
 DATABASE : Supabase (PostgreSQL + RLS)
-STREAM   : WebSocket Realtime Broadcast
-
-INTEGRATED CAPABILITIES:
- > Squad Command & Active Member Status
- > Project Journey & Milestone Roadmaps
- > Centralized Technical Documentation
- > Realtime Team Collaboration Channels
+REALTIME : WebSocket Real-Time Broadcasts
+SECURITY : Granular Row-Level Security Policies
 ```
 
-A futuristic project management command center engineered to centralize sprint deliverables, track engineering roadmap journeys, and facilitate seamless cross-functional team collaboration in real time.
+**Core Capabilities:**
+- **Squad Command Dashboard**: Real-time overview of active squad members, ticket velocity, and sprint statuses.
+- **Project Journey Roadmaps**: Visual milestone progression charting deadlines, deliverable phases, and release checkpoints.
+- **Centralized Documentation**: Structured markdown technical knowledge base and engineering specifications.
+- **Real-Time Collaboration**: Instant synchronized updates across distributed squad workspaces powered by Supabase.
 
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/gowdham2106/maverick-hub">
-  <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-FF39D4?style=for-the-badge&logo=github&logoColor=white&labelColor=080B1A" alt="Mission Mavericks Hub Repository Link" />
+  <img src="https://img.shields.io/badge/ACCESS_MAVERICKS_REPO-FF39D4?style=for-the-badge&logo=github&logoColor=white&labelColor=080B1A" alt="Access Mavericks Hub on GitHub" />
 </a>
 
 </div>
@@ -217,7 +279,7 @@ A futuristic project management command center engineered to centralize sprint d
 
 ---
 
-### `root@gowdham:~# fetch --telemetry github`
+## ◈ 05 — INTEL
 
 <div align="center">
 
@@ -237,47 +299,59 @@ A futuristic project management command center engineered to centralize sprint d
   <img width="100%" src="https://streak-stats.demolab.com?user=gowdham2106&hide_border=true&background=080B1A&ring=00E5FF&fire=FF39D4&currStreakLabel=00E5FF&sideLabels=E6EAF2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B93A7&border_radius=6" alt="GitHub Contribution Streak" />
 </a>
 
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/gowdham2106">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gowdham2106&bg_color=080B1A&color=00E5FF&line=FF39D4&point=00E5FF&area=true&hide_border=true&border_radius=6" alt="GitHub Activity Graph" />
+</a>
+
 </div>
 
 <br/>
 
-<!-- Fallback Telemetry Table (ensures readability if external stats SVG services are unavailable) -->
+<!-- Collapsible Telemetry Audit Log for Fallback Readability -->
 <details>
 <summary><b>[ CLICK TO EXPAND TELEMETRY AUDIT LOG ]</b></summary>
 <br/>
 
-| Metric Indicator | Telemetry Target | Status |
+| Telemetry Metric | Target Description | Verification Status |
 |:---|:---|:---:|
-| **Public Core Repositories** | ClaimShield, Mission Mavericks Hub, Clean Arch Modules | `PUBLIC` |
-| **Primary Code Telemetry** | C#, TypeScript, JavaScript, SQL, HTML/CSS | `VERIFIED` |
-| **Commit Trajectory** | Active sprint cycles & continuous incremental feature branches | `SYNCHRONIZED` |
-| **Continuous Integration** | Automated build & verification workflows via GitHub Actions | `DEPLOYABLE` |
+| **Public Core Repositories** | ClaimShield, Mission Mavericks Hub, Clean Arch Modules | `PUBLIC // ACTIVE` |
+| **Language Footprint** | C#, TypeScript, JavaScript, SQL, HTML5, CSS3 | `SYNCHRONIZED` |
+| **Version Control Discipline** | Semantic commits, clean feature branching, PR workflows | `STANDARDIZED` |
+| **Continuous Integration** | Automated build and verification workflows via GitHub Actions | `DEPLOYABLE` |
 
 </details>
 
 ---
 
-### `root@gowdham:~# cat missions.txt`
+## ◈ 06 — CURRENT MISSIONS
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                     CURRENT ACTIVE LEARNING MISSIONS                         ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  [MISSION // 01]  MASTERING ASP.NET CORE WEB API                             ║
-║                   Clean Architecture, CQRS, Middleware, EF Core Optimization ║
+║  [MISSION // 01]  IMPROVING .NET DEVELOPMENT                                 ║
+║                   Clean Architecture, CQRS, Middleware, EF Core Query Tuning ║
+║                   Progress: [██████████████████████░░] 88%                   ║
 ║                                                                              ║
-║  [MISSION // 02]  IMPROVING REACT AND TYPESCRIPT                             ║
-║                   Strict Generic Components, Custom Hooks, Performance State ║
+║  [MISSION // 02]  LEARNING ADVANCED REACT AND TYPESCRIPT                     ║
+║                   Generic Components, Custom Hooks, Performance Profiling    ║
+║                   Progress: [███████████████████████░] 92%                   ║
 ║                                                                              ║
-║  [MISSION // 03]  LEARNING SQL AND DATABASE ARCHITECTURE                     ║
-║                   Relational Schemas, PostgreSQL Index Tuning, Row-Level Sec ║
+║  [MISSION // 03]  DATABASE DESIGN AND SQL                                    ║
+║                   Relational Schema Normalization, PostgreSQL Index Tuning   ║
+║                   Progress: [█████████████████████░░░] 84%                   ║
 ║                                                                              ║
-║  [MISSION // 04]  IMPROVING TESTING AND DEBUGGING                            ║
-║                   xUnit Test Suites, Integration Testing, Component Quality  ║
+║  [MISSION // 04]  AI INTEGRATION AND APPLICATION ARCHITECTURE                ║
+║                   Context Processing Pipelines, RESTful Contract Design      ║
+║                   Progress: [████████████████████░░░░] 80%                   ║
 ║                                                                              ║
-║  [MISSION // 05]  EXPLORING DEPLOYMENT AND CLOUD TECHNOLOGIES                ║
-║                   Docker Containerization, GitHub Actions CI/CD Pipelines    ║
+║  [MISSION // 05]  GIT AND GITHUB WORKFLOWS                                   ║
+║                   Branching Strategies, CI/CD with GitHub Actions            ║
+║                   Progress: [████████████████████████] 95%                   ║
 ║                                                                              ║
 ║  STATUS: PROGRESS IS CONTINUOUS // UPGRADE IN PROGRESS...                    ║
 ║                                                                              ║
@@ -286,39 +360,34 @@ A futuristic project management command center engineered to centralize sprint d
 
 ---
 
-### `root@gowdham:~# connect --channel all`
+## ◈ 07 — UPLINK
 
 <div align="center">
 
 <p>
-  <strong>Transmission channels are open for full-stack opportunities, graduate roles, and engineering collaborations.</strong>
+  <strong>Transmission channels are active. Open for full-stack developer roles, graduate engineering opportunities, and technical collaborations.</strong>
 </p>
-
-<!-- 
-◈ SOCIAL UPLINKS ◈
-Replace placeholders below with your personal vanity URLs when ready.
--->
 
 <!-- GitHub Profile -->
 <a href="https://github.com/gowdham2106" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-gowdham2106-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B1A" alt="GitHub Profile" />
 </a>
 &nbsp;
-<!-- LinkedIn Profile: Update YOUR-LINKEDIN-SLUG with your exact vanity URL -->
-<a href="https://www.linkedin.com/in//" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FF39D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B1A" alt="LinkedIn Profile" />
+<!-- LinkedIn Profile -->
+<a href="https://www.linkedin.com/in/gowdhamgokuldas/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-gowdhamgokuldas-FF39D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B1A" alt="LinkedIn Profile" />
 </a>
 &nbsp;
-<!-- Direct Email: Update YOUR_EMAIL@example.com with your preferred inbox -->
-<a href="mailto:gowdhamgokul@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B1A" alt="Direct Email" />
+<!-- Direct Email -->
+<a href="mailto:gowdhamgokuldas@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-gowdhamgokuldas%40gmail.com-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B1A" alt="Direct Email" />
 </a>
 
 <br/><br/>
 
 ```text
-> CONNECTION ESTABLISHED
-> THANK YOU FOR VISITING MY DIGITAL WORLD
+> UPLINK ESTABLISHED
+> OPERATOR: GOWDHAM GOKUL // NEO-KYOTO NODE
 > END OF TRANSMISSION_
 ```
 
