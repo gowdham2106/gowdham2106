@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BUG HUNTER // Gowdham's Workstation</title>
+<style>
+:root{--bg:#020617;--panel:#0a122c;--cy:#00e5ff;--pk:#ff39d4;--pu:#7b2fff;--tx:#e6eaf2}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;display:grid;place-items:center;background:radial-gradient(circle at 50% 0,#381464 0,var(--bg) 60%);color:var(--tx);font-family:"Share Tech Mono",ui-monospace,Consolas,monospace}
+main{width:min(92vw,460px);text-align:center;padding:16px}
+h1{font-size:1.5rem;margin:0 0 4px;color:var(--cy);text-shadow:0 0 12px var(--cy);letter-spacing:.08em}
+p{margin:4px 0 12px;color:#8b93a7;font-size:.9rem}
+.hud{display:flex;justify-content:space-between;margin-bottom:10px;font-size:1rem}
+.hud b{color:var(--pk)}
+#grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;padding:10px;background:var(--panel);border:1px solid var(--pu);border-radius:8px;box-shadow:0 0 24px #7b2fff55}
+.cell{aspect-ratio:1;border:1px solid #1a2550;border-radius:6px;background:#080b1a;color:var(--tx);font-size:1.7rem;cursor:crosshair;transition:transform .1s,box-shadow .15s}
+.cell.bug{background:#2a0a30;border-color:var(--pk);box-shadow:0 0 14px var(--pk);animation:pop .25s ease-out}
+.cell.hit{background:#062a30;border-color:var(--cy);box-shadow:0 0 14px var(--cy)}
+.cell:focus-visible{outline:2px solid var(--cy);outline-offset:2px}
+@keyframes pop{from{transform:scale(.6)}to{transform:scale(1)}}
+button.go{margin-top:14px;padding:10px 22px;font:inherit;font-size:1rem;color:#000;background:var(--cy);border:0;border-radius:6px;cursor:pointer;box-shadow:0 0 16px var(--cy)}
+#msg{min-height:1.4em;margin-top:12px;color:var(--cy)}
+@media(prefers-reduced-motion:reduce){.cell.bug{animation:none}}
+</style>
+</head>
+<body>
+<main>
+<h1>BUG HUNTER</h1>
+<p>Squash the bugs before they ship. 30 seconds. Don't touch the clean code.</p>
+<div class="hud"><span>Score <b id="sc">0</b></span><span>Time <b id="tm">30</b></span><span>Best <b id="bs">0</b></span></div>
+<div id="grid" role="group" aria-label="Game board"></div>
+<button class="go" id="go">Start</button>
+<div id="msg" aria-live="polite"></div>
+</main>
+<script>
+const g=document.getElementById('grid'),sc=document.getElementById('sc'),tm=document.getElementById('tm'),bs=document.getElementById('bs'),msg=document.getElementById('msg'),go=document.getElementById('go');
+let score=0,time=30,run=false,tick,spawn,cells=[],best=0;
+try{best=+localStorage.getItem('bh-best')||0}catch(e){}
+bs.textContent=best;
+for(let i=0;i<16;i++){const b=document.createElement('button');b.className='cell';b.setAttribute('aria-label','cell '+(i+1));b.onclick=()=>hit(b);g.appendChild(b);cells.push(b)}
+function clear(c){c.className='cell';c.textContent=''}
+function hit(c){
+  if(!run)return;
+  if(c.classList.contains('bug')){score++;c.className='cell hit';c.textContent='✔';setTimeout(()=>clear(c),200)}
+  else if(c.dataset.safe){score=Math.max(0,score-2);c.className='cell';c.textContent='✖';setTimeout(()=>clear(c),200)}
+  sc.textContent=score;
+}
+function show(){
+  const c=cells[Math.floor(Math.random()*16)];
+  if(c.className!=='cell')return;
+  const bug=Math.random()>.25;
+  c.className=bug?'cell bug':'cell';c.textContent=bug?'🐛':'{ }';
+  if(bug)delete c.dataset.safe;else c.dataset.safe=1;
+  setTimeout(()=>{if(c.textContent==='🐛'||c.textContent==='{ }')clear(c);delete c.dataset.safe},Math.max(500,1100-score*12));
+}
+function start(){
+  score=0;time=30;run=true;sc.textContent=0;tm.textContent=30;msg.textContent='';go.disabled=true;cells.forEach(clear);
+  spawn=setInterval(show,380);
+  tick=setInterval(()=>{tm.textContent=--time;if(time<=0)end()},1000);
+}
+function end(){
+  run=false;clearInterval(spawn);clearInterval(tick);go.disabled=false;go.textContent='Play again';cells.forEach(clear);
+  if(score>best){best=score;bs.textContent=best;try{localStorage.setItem('bh-best',best)}catch(e){}msg.textContent='New best: '+score+'. Production is safe.'}
+  else msg.textContent='Final score: '+score+'. Beat '+best+' to take the top spot.';
+}
+go.onclick=start;
+</script>
+</body>
+</html>

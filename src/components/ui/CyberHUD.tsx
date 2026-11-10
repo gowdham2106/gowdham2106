@@ -1,5 +1,5 @@
 import React from 'react';
-import { Volume2, VolumeX, Eye, Terminal, Github, ExternalLink, Zap } from 'lucide-react';
+import { Volume2, VolumeX, Eye, Terminal, Github, ExternalLink, Zap, Gamepad2 } from 'lucide-react';
 import { soundFX } from '../../audio/soundFX';
 import { NavSection } from '../../types';
 
@@ -72,6 +72,19 @@ export const CyberHUD: React.FC<CyberHUDProps> = ({
 
         {/* Right: Controls & Uplinks */}
         <div className="flex items-center gap-1.5 sm:gap-2 pointer-events-auto">
+          {/* Bug Hunter Arcade Button */}
+          <a
+            href="./bug-hunter/"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={() => soundFX.playClick()}
+            className="hidden sm:flex items-center gap-1.5 px-2.5 py-1.5 bg-cyber-900/90 border border-neon-pink/50 hover:border-neon-pink text-neon-pink hover:text-white transition-all cyber-cut-sm text-xs font-tech"
+            title="Launch Bug Hunter Mini-Game"
+          >
+            <Gamepad2 className="w-3.5 h-3.5 text-neon-pink" />
+            <span>BUG HUNTER</span>
+          </a>
+
           {/* GitHub Direct Link */}
           <a
             href="https://github.com/gowdham2106"
@@ -123,4 +136,3 @@ export const CyberHUD: React.FC<CyberHUDProps> = ({
     </header>
   );
 };
-
