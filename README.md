@@ -1,158 +1,154 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,20:0a122c,55:381464,100:00e5ff&text=GOWDHAM's%20WORKSTATION&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=twinkling&desc=GOWDHAM%20GOKUL%20%7C%20GRADUATE%20TRAINEE%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=65&descAlign=50" alt="Gowdham's Workstation Header" />
+<!-- ◈ CYBERPUNK HEADER BANNER ◈ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,20:0a122c,55:381464,100:00e5ff&text=GOWDHAM's%20WORKSTATION&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=twinkling&desc=GOWDHAM%20GOKUL%20%7C%20GRADUATE%20TRAINEE%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=65&descAlign=50" alt="Gowdham's Workstation Header" />
 
+<!-- ◈ DYNAMIC TYPING SEQUENCE ◈ -->
 <a href="https://github.com/gowdham2106">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E+WORKSTATION+INITIALIZED;%3E+OPERATOR%3A+GOWDHAM+GOKUL;%3E+C%23+%7C+ASP.NET+CORE+%7C+REACT+%7C+TYPESCRIPT;%3E+BUILDING+SOMETHING+MEANINGFUL..." alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=42&lines=%3E+WORKSTATION+INITIALIZED;%3E+OPERATOR%3A+GOWDHAM+GOKUL;%3E+C%23+%7C+ASP.NET+CORE+%7C+REACT+%7C+TYPESCRIPT;%3E+BUILDING+SOMETHING+MEANINGFUL..." alt="Typing Subtitle" />
 </a>
 
 <br/>
 
+<!-- ◈ LIVE STATUS TELEMETRY BADGES ◈ -->
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=080B1A" alt="System Online" />
 <img src="https://img.shields.io/badge/ROLE-GRADUATE%20TRAINEE-FF39D4?style=for-the-badge&logo=codestream&logoColor=white&labelColor=080B1A" alt="Role" />
 <img src="https://img.shields.io/badge/SPECIALIZATION-FULL--STACK-7B2FFF?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=080B1A" alt="Specialization" />
 <img src="https://komarev.com/ghpvc/?username=gowdham2106&label=VISITORS&color=00e5ff&style=for-the-badge&labelColor=080B1A" alt="Profile views" />
 
-<br/><br/>
-
-<a href="https://gowdham2106.github.io/bug-hunter/">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PLAY%20BUG%20HUNTER-JUMP%20TO%20THE%20GAME-FF39D4?style=for-the-badge&labelColor=080B1A" alt="Play Bug Hunter" />
-</a>
-
-</div>
-
----
-
-## ◈ 01 — WORKSTATION
-
-<div align="center">
-<p align="center">
-  <img src="./assets/cyberpunk-workstation.svg" width="100%" alt="Neo-Kyoto Developer Workstation" />
-</p>
-</div>
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                   GOWDHAM's WORKSTATION // ROOT ENVIRONMENT                  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  OPERATOR         : GOWDHAM G                                                ║
-║  DESIGNATION      : Graduate Trainee | Full-Stack Developer                  ║
-║  CLASS            : Software Engineer                                        ║
-║  CORE STACK       : C# • ASP.NET Core • React • TypeScript • PostgreSQL • AI ║
-║  MISSION DIRECTIVE: Transform complex ideas into resilient, scalable software║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-> **Terminal Log:** Welcome to **Gowdham's Workstation**. Enterprise C#/.NET Core on the server, type-safe React and TypeScript on the client.
-
-| Workstation Node | Implementation Focus | Runtime Telemetry |
-|:---|:---|:---:|
-| **Server Architecture** | ASP.NET Core Web APIs, Clean Architecture, DI, EF Core | `ACTIVE` |
-| **Client Interface** | React 18, Strict TypeScript, Tailwind CSS, 3D WebGL / Canvas | `OPTIMIZED` |
-| **Data Persistence** | PostgreSQL schema modeling, Supabase RLS, SQL indexing | `ONLINE` |
-| **Intelligent Layer** | AI-assisted claim contextualization, workflow automation | `DEPLOYED` |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:FF39D4,100:7B2FFF" alt="divider" />
-
-## ◈ 02 — IDENTITY MATRIX
-
-```text
-"Explore the unknown. Engineer the solution. Build something meaningful."
-```
-
-I am **Gowdham Gokul**, a Graduate Trainee and aspiring Full-Stack Developer focused on full-lifecycle software engineering, built on four pillars:
-
-<details open>
-<summary><b>1. C# and ASP.NET Core</b></summary>
-
-- High-throughput, asynchronous REST APIs with **C#** and **ASP.NET Core**.
-- Decoupled backends using **Clean Architecture**, repository patterns, and dependency injection.
-- **EF Core** for ORM, migrations, and optimized queries.
-- Secure authentication and authorization with JWT and policy-based claims.
-</details>
-
-<details open>
-<summary><b>2. React and TypeScript</b></summary>
-
-- Component-driven SPAs with **React** and modern hooks.
-- End-to-end type safety with strict **TypeScript**.
-- Responsive UIs with **Tailwind CSS** and interactive WebGL experiences with Three.js.
-- Predictable state management and optimized rendering.
-</details>
-
-<details open>
-<summary><b>3. PostgreSQL and Database Engineering</b></summary>
-
-- Normalized relational schemas with strict foreign-key constraints in **PostgreSQL**.
-- Query tuning through B-Tree and GIN indexes and transaction isolation.
-- **Supabase** real-time subscriptions, triggers, and Row-Level Security.
-</details>
-
-<details open>
-<summary><b>4. AI-Assisted Application Development</b></summary>
-
-- AI context pipelines embedded in real business workflows.
-- Intelligent categorization and context scoring, as deployed in **ClaimShield**.
-- Modern AI tooling for tests, documentation, and architecture modeling.
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7B2FFF,50:FF39D4,100:00E5FF" alt="divider" />
-
-## ◈ 03 — ARSENAL
-
-<div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,tailwind,vite,postgres,supabase,git,github,vscode&perline=7" alt="Tech Stack Icons" />
-</a>
 </div>
 
 <br/>
 
-### `[ LANGUAGES ]`
-<p>
-  <img src="https://img.shields.io/badge/C%23-9333EA?style=for-the-badge&logo=csharp&logoColor=white&labelColor=080B1A" alt="C#" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=080B1A" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080B1A" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=080B1A" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=080B1A" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=080B1A" alt="CSS3" />
-</p>
+<!-- ◈ OPERATOR AVATAR & ROOT DOSSIER CARD ◈ -->
+<table>
+<tr>
+<td width="33%" align="center" valign="middle">
 
-### `[ FRONTEND ]`
-<p>
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=080B1A" alt="React" />
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=080B1A" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=080B1A" alt="Vite" />
-  <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=080B1A" alt="Three.js" />
-  <img src="https://img.shields.io/badge/FRAMER_MOTION-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=080B1A" alt="Framer Motion" />
-</p>
+<br/>
+<img src="./assets/avatar-cyber.png" width="215" alt="Gowdham Gokul Cyberpunk Avatar" />
+<br/><br/>
+<img src="https://img.shields.io/badge/NEURAL_LINK-CONNECTED-00E5FF?style=flat-square&logo=statuspage&logoColor=00E5FF&labelColor=080B1A" alt="Neural Link Connected" />
+<br/><br/>
 
-### `[ BACKEND ]`
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt=".NET 9" />
-  <img src="https://img.shields.io/badge/ENTITY_FRAMEWORK_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt="EF Core" />
-  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-00E5FF?style=for-the-badge&logo=diagram-next&logoColor=black&labelColor=080B1A" alt="Clean Architecture" />
-</p>
+</td>
+<td width="67%" valign="middle">
 
-### `[ DATABASE ]`
-<p>
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=080B1A" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=080B1A" alt="Supabase" />
-  <img src="https://img.shields.io/badge/ROW_LEVEL_SECURITY-FF39D4?style=for-the-badge&logo=auth0&logoColor=white&labelColor=080B1A" alt="RLS" />
-</p>
+### `⚡` OPERATOR DOSSIER // ROOT ENVIRONMENT
 
-### `[ TOOLS & AI ]`
-<p>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=080B1A" alt="Git" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=080B1A" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=080B1A" alt="VS Code" />
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=080B1A" alt="Postman" />
-  <img src="https://img.shields.io/badge/GITHUB_COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=080B1A" alt="Copilot" />
-  <img src="https://img.shields.io/badge/AI_INTEGRATION-00E5FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080B1A" alt="AI Integration" />
-</p>
+```text
+OPERATOR   : GOWDHAM GOKUL
+ROLE       : Graduate Trainee | Full-Stack Developer
+CLASS      : Software Engineer
+CORE STACK : C# • ASP.NET Core • React • TS • PostgreSQL
+DIRECTIVE  : Build resilient, scalable full-stack software
+```
+
+> *"Explore the unknown. Engineer the solution. Build something meaningful."*
+
+Welcome to **Gowdham's Workstation** — where enterprise **C# / ASP.NET Core** backend architecture meets type-safe **React**, **TypeScript**, and **PostgreSQL** engineering.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/gowdhamgokuldas/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FF39D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B1A" alt="LinkedIn" />
+</a>
+<a href="mailto:gowdhamgokuldas@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-UPLINK-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B1A" alt="Email" />
+</a>
+<a href="https://gowdham2106.github.io/bug-hunter/">
+  <img src="https://img.shields.io/badge/ARCADE-%E2%96%B6%20BUG%20HUNTER-00E5FF?style=for-the-badge&labelColor=080B1A" alt="Bug Hunter" />
+</a>
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:FF39D4,100:7B2FFF" alt="divider" />
+
+## ◈ 01 — WORKSTATION
+
+<div align="center">
+  <img src="./assets/cyberpunk-workstation.svg" width="100%" alt="Neo-Kyoto Developer Workstation" />
+</div>
+
+<br/>
+
+| Workstation Node | Implementation Focus | Runtime Telemetry |
+|:---|:---|:---:|
+| **`01` Server Architecture** | ASP.NET Core Web APIs, Clean Architecture, DI, EF Core | ![ACTIVE](https://img.shields.io/badge/ACTIVE-00E5FF?style=flat-square&labelColor=080B1A) |
+| **`02` Client Interface** | React 18, Strict TypeScript, Tailwind CSS, 3D WebGL / Canvas | ![OPTIMIZED](https://img.shields.io/badge/OPTIMIZED-7B2FFF?style=flat-square&labelColor=080B1A) |
+| **`03` Data Persistence** | PostgreSQL schema modeling, Supabase RLS, SQL indexing | ![ONLINE](https://img.shields.io/badge/ONLINE-3ECF8E?style=flat-square&labelColor=080B1A) |
+| **`04` Intelligent Layer** | AI-assisted claim contextualization, workflow automation | ![DEPLOYED](https://img.shields.io/badge/DEPLOYED-FF39D4?style=flat-square&labelColor=080B1A) |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7B2FFF,50:FF39D4,100:00E5FF" alt="divider" />
+
+## ◈ 02 — IDENTITY MATRIX
+
+I am **Gowdham Gokul**, a Graduate Trainee and aspiring Full-Stack Developer focused on full-lifecycle software engineering, built on four core engineering pillars:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### `◈` 1. C# and ASP.NET Core
+- High-throughput, asynchronous REST APIs with **C#** and **ASP.NET Core**.
+- Decoupled backends using **Clean Architecture**, repository patterns, and dependency injection.
+- **EF Core** for ORM, migrations, and optimized queries.
+- Secure authentication and authorization with JWT and policy-based claims.
+
+</td>
+<td width="50%" valign="top">
+
+#### `◈` 2. React and TypeScript
+- Component-driven SPAs with **React** and modern hooks.
+- End-to-end type safety with strict **TypeScript**.
+- Responsive UIs with **Tailwind CSS** and interactive WebGL experiences with **Three.js**.
+- Predictable state management and optimized rendering.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### `◈` 3. PostgreSQL & Database Engineering
+- Normalized relational schemas with strict foreign-key constraints in **PostgreSQL**.
+- Query tuning through B-Tree and GIN indexes and transaction isolation.
+- **Supabase** real-time subscriptions, triggers, and Row-Level Security.
+
+</td>
+<td width="50%" valign="top">
+
+#### `◈` 4. AI-Assisted Application Dev
+- AI context pipelines embedded in real business workflows.
+- Intelligent categorization and context scoring, as deployed in **ClaimShield**.
+- Modern AI tooling for tests, documentation, and architecture modeling.
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:FF39D4,100:7B2FFF" alt="divider" />
+
+## ◈ 03 — ARSENAL
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,tailwind,vite,postgres,supabase,git,github,vscode&perline=7" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br/>
+
+| Layer | Technologies & Modules |
+|:---|:---|
+| **`[ LANGUAGES ]`** | <img src="https://img.shields.io/badge/C%23-9333EA?style=for-the-badge&logo=csharp&logoColor=white&labelColor=080B1A" alt="C#" /> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=080B1A" alt="TypeScript" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080B1A" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=080B1A" alt="SQL" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=080B1A" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=080B1A" alt="CSS3" /> |
+| **`[ FRONTEND ]`** | <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=080B1A" alt="React" /> <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=080B1A" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=080B1A" alt="Vite" /> <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=080B1A" alt="Three.js" /> <img src="https://img.shields.io/badge/FRAMER_MOTION-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=080B1A" alt="Framer Motion" /> |
+| **`[ BACKEND ]`** | <img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt=".NET 9" /> <img src="https://img.shields.io/badge/ENTITY_FRAMEWORK_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=080B1A" alt="EF Core" /> <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-00E5FF?style=for-the-badge&logo=diagram-next&logoColor=black&labelColor=080B1A" alt="Clean Architecture" /> |
+| **`[ DATABASE ]`** | <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=080B1A" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=080B1A" alt="Supabase" /> <img src="https://img.shields.io/badge/ROW_LEVEL_SECURITY-FF39D4?style=for-the-badge&logo=auth0&logoColor=white&labelColor=080B1A" alt="RLS" /> |
+| **`[ TOOLS & AI ]`** | <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=080B1A" alt="Git" /> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=080B1A" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=080B1A" alt="VS Code" /> <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=080B1A" alt="Postman" /> <img src="https://img.shields.io/badge/GITHUB_COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=080B1A" alt="Copilot" /> <img src="https://img.shields.io/badge/AI_INTEGRATION-00E5FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080B1A" alt="AI Integration" /> |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7B2FFF,50:FF39D4,100:00E5FF" alt="divider" />
 
 ## ◈ 04 — PROJECT UNIVERSE
 
@@ -162,7 +158,7 @@ I am **Gowdham Gokul**, a Graduate Trainee and aspiring Full-Stack Developer foc
 
 <div align="center">
 
-### 🛡️ CLAIMSHIELD
+### `🛡️` CLAIMSHIELD
 **Motor Insurance Claims Intelligence Platform**
 
 <img src="https://img.shields.io/badge/DOMAIN-MOTOR%20INSURANCE-00E5FF?style=for-the-badge&labelColor=080B1A" alt="Domain" />
@@ -184,6 +180,7 @@ AI CORE  : Automated Context Scoring Module
 - **AI-Assisted Claim Context**: damage summaries and consistency scores for adjusters.
 
 <div align="center">
+<br/>
 <a href="https://github.com/gowdham2106/claimshield">
   <img src="https://img.shields.io/badge/ACCESS_CLAIMSHIELD_REPO-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B1A" alt="ClaimShield Repo" />
 </a>
@@ -194,7 +191,7 @@ AI CORE  : Automated Context Scoring Module
 
 <div align="center">
 
-### 🚀 MISSION MAVERICKS HUB
+### `🚀` MISSION MAVERICKS HUB
 **Team Collaboration & Agile Command Portal**
 
 <img src="https://img.shields.io/badge/DOMAIN-PROJECT%20TELEMETRY-FF39D4?style=for-the-badge&labelColor=080B1A" alt="Domain" />
@@ -216,6 +213,7 @@ SECURITY : Row-Level Security Policies
 - **Real-Time Collaboration**: instant synced updates via Supabase.
 
 <div align="center">
+<br/>
 <a href="https://github.com/gowdham2106/maverick-hub">
   <img src="https://img.shields.io/badge/ACCESS_MAVERICKS_REPO-FF39D4?style=for-the-badge&logo=github&logoColor=white&labelColor=080B1A" alt="Mavericks Repo" />
 </a>
@@ -225,7 +223,7 @@ SECURITY : Row-Level Security Policies
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7B2FFF,50:FF39D4,100:00E5FF" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:FF39D4,100:7B2FFF" alt="divider" />
 
 ## ◈ 05 — INTEL
 
@@ -254,7 +252,7 @@ SECURITY : Row-Level Security Policies
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7B2FFF,50:FF39D4,100:00E5FF" alt="divider" />
 
 ## ◈ 06 — CURRENT MISSIONS
 
@@ -271,15 +269,15 @@ SECURITY : Row-Level Security Policies
              Branching Strategies, CI/CD with GitHub Actions
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:FF39D4,100:7B2FFF" alt="divider" />
 
 ## ◈ 07 — TROPHY ROOM
 
 <div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gowdham2106&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=gowdham2106&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7B2FFF,50:FF39D4,100:00E5FF" alt="divider" />
 
 ## ◈ 08 — ARCADE: BUG HUNTER
 
@@ -297,13 +295,15 @@ SECURITY : Row-Level Security Policies
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:FF39D4,100:7B2FFF" alt="divider" />
 
 ## ◈ 09 — UPLINK
 
 <div align="center">
 
 **Transmission channels are active. Open for full-stack developer roles, graduate engineering opportunities, and technical collaborations.**
+
+<br/>
 
 <a href="https://github.com/gowdham2106" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-gowdham2106-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B1A" alt="GitHub" />
