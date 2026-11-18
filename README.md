@@ -56,7 +56,7 @@ Welcome to **Gowdham's Workstation** — where enterprise **C# / ASP.NET Core** 
 <a href="mailto:gowdhamgokuldas@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-UPLINK-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B1A" alt="Email" />
 </a>
-<a href="https://gowdham2106.github.io/bug-hunter/">
+<a href="https://gowdham2106.github.io/gowdham2106/bug-hunter/" target="_blank">
   <img src="https://img.shields.io/badge/ARCADE-%E2%96%B6%20BUG%20HUNTER-00E5FF?style=for-the-badge&labelColor=080B1A" alt="Bug Hunter" />
 </a>
 
@@ -287,11 +287,30 @@ SECURITY : Row-Level Security Policies
 
 <br/>
 
-<a href="https://gowdham2106.github.io/bug-hunter/">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20BUG%20HUNTER-INSERT%20COIN-00E5FF?style=for-the-badge&labelColor=FF39D4&color=080B1A" alt="Play Bug Hunter" />
+```text
+┌────────────────────────────────────────────────────────┐
+│  ARCADE SIMULATION // CYBERPUNK BUG HUNTER             │
+├────────────────────────────────────────────────────────┤
+│  TIME LIMIT : 30 SECONDS       PLATFORM : RETRO BROWSER│
+│  OBJECTIVE  : Squash the bugs [🐛] before they ship!   │
+│  WARNING    : Do NOT hit clean code [{ }] (-2 pts)     │
+└────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<a href="https://gowdham2106.github.io/gowdham2106/bug-hunter/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20BUG%20HUNTER-INSERT%20COIN-00E5FF?style=for-the-badge&labelColor=FF39D4&color=080B1A" alt="Play Bug Hunter" />
 </a>
 
-<p><i>Squash the bugs, avoid clean code, and share your score in the comments of any open issue or send it to my inbox.</i></p>
+<br/><br/>
+
+<p>
+  <a href="https://gowdham2106.github.io/gowdham2106/bug-hunter/" target="_blank"><b>🎮 Click here to launch game</b></a> &nbsp;•&nbsp; 
+  <a href="https://github.com/gowdham2106/gowdham2106/blob/main/bug-hunter/index.html"><b>Inspect Source Code</b></a>
+</p>
+
+<p><i>Squash the bugs, avoid clean code, and share your high score in my inbox or discussions!</i></p>
 
 </div>
 
