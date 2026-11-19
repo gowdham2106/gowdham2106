@@ -239,7 +239,7 @@ SECURITY : Row-Level Security Policies
 <br/><br/>
 
 <a href="https://github.com/gowdham2106">
-  <img width="100%" src="https://streak-stats.demolab.com?user=gowdham2106&hide_border=true&background=080B1A&ring=00E5FF&fire=FF39D4&currStreakLabel=00E5FF&sideLabels=E6EAF2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B93A7&border_radius=6" alt="Contribution Streak" />
+  <img width="495" src="https://streak-stats.demolab.com?user=gowdham2106&hide_border=true&background=080B1A&ring=00E5FF&fire=FF39D4&currStreakLabel=00E5FF&sideLabels=E6EAF2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B93A7&border_radius=6&timezone=Asia%2FKolkata" alt="Contribution Streak" />
 </a>
 
 <br/><br/>
